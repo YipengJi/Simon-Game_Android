@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">A4</string>
+    <string name="DEBUG_A4_ID">CS349_DEBUG_A4</string>
+
+    <string name="menu_gotoSetting">Game Settings</string>
+    <string name="menu_gotoGame">Game Play</string>
+    <string name="menu_gotoMain">Main Menu</string>
+
+    <string name="main_button_start">Let\'s Play</string>
+    <string name="main_button_setting">Change Settings</string>
+    <string name="main_text">Welcome to Simon Game! \nPress buttons following their flashing orders \nCome on! Let\'s Play!</string>
+
+    <string name="game_message">Game Message</string>
+    <string name="game_score">Score : </string>
+    <string name="game_button_startagain">Start Again</string>
+    <string name="game_button_main">Main Menu</string>
+
+    <string name="setting_button_done">Main Menu</string>
+    <string name="setting_text1">How many BUTTONS \nwould you like? \n(Please choose from 1 to 6)</string>
+    <string name="setting_text2">What challenge LEVEL \nwould you like?</string>
+    <string name="setting_rb_easy">Easy</string>
+    <string name="setting_rb_normal">Normal</string>
+    <string name="setting_rb_hard">Hard</string>
+
+</resources>
